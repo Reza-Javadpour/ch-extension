@@ -1,0 +1,10 @@
+{
+  "name": "Popup",
+  "version": "0.001",
+  "description": "Popup Test",
+  "browser_action": {
+    "default_title": "Popup HTML",
+    "default_popup": "popout.html"
+  },
+  "manifest_version": 2
+}
